@@ -1,6 +1,7 @@
 
 
-#just testin'
+# just testin'
+# Totally testing!
 
 class StaticPagesController < ApplicationController
   def home
