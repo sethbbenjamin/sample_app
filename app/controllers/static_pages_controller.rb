@@ -1,8 +1,4 @@
 
-
-# just testin'
-# Totally testing!
-
 class StaticPagesController < ApplicationController
   def home
   end
